@@ -9,5 +9,12 @@ header {
     border: 2px solid red;
     height: 56px;
     display: flex;
-    
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 1rem;
 }
+
+
+
+
+
