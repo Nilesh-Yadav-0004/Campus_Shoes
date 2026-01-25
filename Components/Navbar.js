@@ -53,6 +53,17 @@ export const footer = () => {
             <section class="footer_logos">
                 <img src="${footer_svg_logo}" alt="footer-logo">
             </section>
-            <section class="footer"_text">lorem ipsum dolar sit amet consectetur,    
-    `
-}
+            <section class="footer"_text">lorem ipsum dolar sit amet consectetur,
+            adipisicing elit. saepe, illo.adipisicing
+                elit. saepe, ille.adipisicing elit. saepe, ille.
+            </section>
+            <section class="social_logo>
+                <img src="${facebook_logo}" alt="facebook-logo">
+                <img src="${github_logo}">
+                <img src="${google_logo}" alt="google">
+                <img src="${youtube_logo}" alt="Youtube-logo">
+                <img src="${linkedin_logo}" alt="linkedin">
+            </section>
+        </section>
+    `;
+};
